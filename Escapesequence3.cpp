@@ -21,4 +21,4 @@ int main() {
     cout << "-----------------------------------------------------------" << endl;
     // prints the flat ground on which both the man and woman together with their car are standing
     return 0;
-}
+} 
